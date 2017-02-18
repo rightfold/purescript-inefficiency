@@ -1,0 +1,8 @@
+{
+  "name": "purescript-inefficiency",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rightfold/purescript-inefficiency.git"
+  }
+}
